@@ -1,3 +1,7 @@
+# VU ACCRE Hardware Usage Analysis
+
+NSS Group Project | Collaborators: https://github.com/racecarfastlane and https://github.com/jasonamyers
+
 ## Data Question 2: The Advanced Computing Center for Research and Education
 
 In this data question, you will be analyzing data on jobs run on ACCRE's hardware. You will need to do some data cleaning and preparation and then explore and analyze to answer the following questions.
